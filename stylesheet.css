@@ -5,7 +5,7 @@
 body {
     margin: 0 auto;
     font-family: "Lucida Grande";
-    width: 100%;
+    width:100%;
     /*max-width:1170px;*/
 }
 
@@ -156,6 +156,8 @@ header {
     display: none;
 }
 
+
+
 .heading {
     padding-top: 80px;
     padding-bottom: 50px;
@@ -174,6 +176,8 @@ header {
     color: #EAB543;
 }
 
+
+
 .worker-wrapper {
     padding-bottom: 80px;
     padding-left: 5%;
@@ -185,25 +189,23 @@ header {
 .workers {
     background-color: #596275;
 }
-
 .worker {
     float: left;
     width: 20%;
-    padding: 10px;
+    padding:10px;
     /*margin: 10px;*/
 }
-
-.worker-icon img {
+.worker-icon img{
     width: 80%;
     border-radius: 50%;
     background-color: #fff;
     border: 2px solid #dee2e6
 }
-
 .worker-icon:hover {
     position: relative;
     transition: all 5s;
     width: 100%;
+
 }
 
 .worker-icon:active p {
